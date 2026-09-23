@@ -1,4 +1,3 @@
-# anonymous-ai-image-study
 # Human vs. AI Image Detection
 
 This repository contains the code, data metadata, and results associated with our research study comparing human and AI-based detection of AI-generated images.
